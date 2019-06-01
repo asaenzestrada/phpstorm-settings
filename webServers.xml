@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4ce95e3a-3df0-4c83-b587-af0a10e0dc99" name="transteckno" url="http://transteckno.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
