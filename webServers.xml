@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6ce5f6eb-0cbe-4516-9714-b9e9b8e8a410" name="wcardz" url="http://wcardz.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
